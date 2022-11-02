@@ -4,5 +4,5 @@
 
 ## Sou um graduando em Análise e Desenvolvimento de Sistemas, na UniMetrocamp - Wyden
 
-- 📅  Atualmente, estou atuando na área de Mainframe, com foco na plataforma de AS400. Futuramente, pretendo atuar na área de Production Schedule Automation(PSA de AS400). A área tem como função, gerenciar, criar e alterar o schedule de aplicações que rodam dentro do sistema de acordo com a requisição e necessidade dos clientes. Sejam elas Jobs, Backup, etc...
+- 📅  Atualmente, estou atuando na área de Mainframe, com foco na plataforma de AS400. Futuramente, pretendo atuar na área de Production Schedule Automation(PSA de AS400). Tendo a função de gerenciar, criar e alterar o schedule de aplicações que rodam dentro do sistema de acordo com a requisição e necessidade dos clientes. Sejam elas Jobs, Backup, etc...
 
